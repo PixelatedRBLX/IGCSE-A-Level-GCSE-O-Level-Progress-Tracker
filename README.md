@@ -21,3 +21,4 @@ Displays quick statistical summaries including total papers completed, average s
 Save as Excel (.xlsx): Generates a fully formatted spreadsheet containing log details and set breakdowns using a custom in-browser ZIP/XLSX builder with no external libraries required.
 
 Save as PDF: Compiles a clean, printable PDF summary report complete with statistics, grade estimates, and structured tables.
+Simply click the green "Code" button Click Download as ZIP
